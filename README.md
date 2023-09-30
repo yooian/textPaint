@@ -10,8 +10,8 @@ Run ```make``` in the terminal, and run ```./paint```
 
 ### Commands: 
 ```
-**Help:** h 
-**Quit:** q 
+Help: h 
+Quit: q 
 Draw line: w row_start col_start row_end col_end 
 Resize: r num_rows num_cols 
 Add row or column: a [r | c] pos 
